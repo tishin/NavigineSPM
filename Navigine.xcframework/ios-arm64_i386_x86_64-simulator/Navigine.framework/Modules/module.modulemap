@@ -1,0 +1,5 @@
+framework module Navigine {
+    umbrella header "Navigine.h"
+    export *
+    module * { export * }
+}
